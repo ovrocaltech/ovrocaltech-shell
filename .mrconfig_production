@@ -1,0 +1,7 @@
+# myrepos config file for ovro-lwa Project
+
+[deploy-test]
+checkout =
+    git clone git@github.com:ovrocaltech/deploy-test.git
+fetch =
+    git checkout v1.0.0
