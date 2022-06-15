@@ -1,5 +1,13 @@
 # myrepos config file for ovro-lwa Project
 
+[ovrocaltech]
+checkout =
+    git clone git@github.com:ovrocaltech/ovrocaltech.github.io.git
+
 [deploy-test]
 checkout =
     git clone git@github.com:ovrocaltech/deploy-test.git
+
+[swdeploy]
+checkout =
+    git clone git@github.com:ovrocaltech/swdeploy.git
